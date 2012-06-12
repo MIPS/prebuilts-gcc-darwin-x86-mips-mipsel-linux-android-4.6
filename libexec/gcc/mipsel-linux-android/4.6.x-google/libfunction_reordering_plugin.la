@@ -38,4 +38,4 @@ dlopen=''
 dlpreopen=''
 
 # Directory that this library needs to be installed in:
-libdir='/Users/andrewhsieh/internaldroid/ndk/toolchains/mipsel-linux-android-4.6/prebuilt/darwin-x86/libexec/gcc/mipsel-linux-android/4.6.x-google'
+libdir='/Users/User/mydroid/ndk/toolchains/mipsel-linux-android-4.6/prebuilt/darwin-x86/libexec/gcc/mipsel-linux-android/4.6.x-google'

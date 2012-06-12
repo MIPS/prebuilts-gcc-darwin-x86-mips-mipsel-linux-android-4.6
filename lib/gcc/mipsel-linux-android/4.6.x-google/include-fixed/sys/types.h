@@ -2,7 +2,7 @@
 
     It has been auto-edited by fixincludes from:
 
-	"/Users/andrewhsieh/internaldroid/ndk/toolchains/mipsel-linux-android-4.6/prebuilt/darwin-x86/sysroot/usr/include/sys/types.h"
+	"/Users/User/mydroid/ndk/toolchains/mipsel-linux-android-4.6/prebuilt/darwin-x86/sysroot/usr/include/sys/types.h"
 
     This had to be done to correct non-standard usages in the
     original, manufacturer supplied header file.  */
